@@ -1,4 +1,3 @@
-# Dernier : Function
 {
 	"name": "Vanessa Dark",
 	"colors": {
@@ -25,7 +24,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#a8d16f"
+				"foreground": "#f0cb67"
 			}
 		},
 		{
@@ -75,7 +74,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#f564c5"
+				"foreground": "#9966cc"
 			}
 		},
 		{
